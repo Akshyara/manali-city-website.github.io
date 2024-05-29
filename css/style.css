@@ -506,15 +506,12 @@ header.sticky{
 @media (max-width: 1040px){
   #menu-icon{
     display: block;
-    background-color: #50beed7d;
   }
   .stick #menu-icon{
     color: var(--text-color);
-    background-color: #50beed7d;
   }
   .home{
     height: 88vh;
-    background-color: #50beed7d;
   }
   .navbar{
     position: absolute;
@@ -541,12 +538,10 @@ header.sticky{
   }
   .open{
     right: 0;
-    background-color: #50beed7d;
   }
   .list{
     width: 50%;
     margin-bottom: 12px;
-    background-color: #50beed7d;
   }
 }
 
@@ -568,6 +563,5 @@ header.sticky{
   .home{
     height: 85vh;
     transition: .2s;
-    background-color: #50beed7d;
   }
 }
