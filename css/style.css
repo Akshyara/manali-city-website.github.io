@@ -506,6 +506,7 @@ header.sticky{
 @media (max-width: 1040px){
   #menu-icon{
     display: block;
+    background-color: #50beed7d;
   }
   .stick #menu-icon{
     color: var(--text-color);
