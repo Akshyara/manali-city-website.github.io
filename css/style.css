@@ -513,6 +513,7 @@ header.sticky{
   }
   .home{
     height: 88vh;
+    background-color: #50beed7d;
   }
   .navbar{
     position: absolute;
@@ -564,5 +565,6 @@ header.sticky{
   .home{
     height: 85vh;
     transition: .2s;
+    background-color: #50beed7d;
   }
 }
