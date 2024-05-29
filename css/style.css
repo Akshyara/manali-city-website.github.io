@@ -510,6 +510,7 @@ header.sticky{
   }
   .stick #menu-icon{
     color: var(--text-color);
+    background-color: #50beed7d;
   }
   .home{
     height: 88vh;
@@ -540,10 +541,12 @@ header.sticky{
   }
   .open{
     right: 0;
+    background-color: #50beed7d;
   }
   .list{
     width: 50%;
     margin-bottom: 12px;
+    background-color: #50beed7d;
   }
 }
 
@@ -551,7 +554,7 @@ header.sticky{
   .list{
     width: 100%;
   }
-  .newslwtter form{
+  .newsletter form{
     width: 350px;
   }
   :root{
